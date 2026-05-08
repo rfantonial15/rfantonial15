@@ -143,6 +143,6 @@ Mobile marketplace for Filipino fishermen with an ocean-themed UI.
 ---
 
 <p align="center">
-  <em>Have a role, a project, or just want to say hi? My inbox is open — I reply fast.</em><br/><br/>
+  <em>Have a role, a project, or just want to say hi? My inbox is open.</em><br/><br/>
   <a href="mailto:fantonial.randulf9@gmail.com"><strong>fantonial.randulf9@gmail.com</strong></a>
 </p>
