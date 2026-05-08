@@ -111,7 +111,7 @@ Full case studies on my [**portfolio →**](https://rfantonial.vercel.app/)
 |------|-------|---------|
 | 2025 | **1st Place** — SEA-CICSIC, Southeast Asia Division | AIDA |
 | 2024 | **National Champion** — PCCI Business Idea Development Award | AIDA |
-| 2024 | **₱100,000 Grant** — Sparks' Up Student Incubation Program | AIDA |
+| 2024 | **Secured Funding** — Sparks' Up Student Incubation Program | AIDA |
 | 2024 | **1st Runner-Up** — Philippine Startup Challenge 9, Region X | AIDA |
 | 2025 | **2nd Runner-Up** — Disruptor X Yearly Pitch Competition | AIDA |
 | 2025 | **Overall Best Poster** — Lambigit Research Innovation Summit | AIDA |
