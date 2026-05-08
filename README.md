@@ -137,11 +137,6 @@ Mobile marketplace for Filipino fishermen with an ocean-themed UI.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rfantonial15&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rfantonial15&theme=tokyonight&utcOffset=8" alt="Productive Time (UTC+8)" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rfantonial15&theme=tokyonight&exclude=html,css" alt="Languages by Repos" />
 </p>
 
