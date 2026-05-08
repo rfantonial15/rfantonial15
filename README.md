@@ -122,6 +122,7 @@ Mobile marketplace for fishermen with an ocean-themed UI.
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -129,11 +130,10 @@ Mobile marketplace for fishermen with an ocean-themed UI.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rfantonial15&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rfantonial15&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rfantonial15&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rfantonial15&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rfantonial15&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rfantonial15&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfantonial15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&cache_seconds=1800" alt="Top Languages" />
 </p>
