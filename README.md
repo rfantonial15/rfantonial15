@@ -125,14 +125,14 @@ Mobile marketplace for fishermen with an ocean-themed UI.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rfantonial15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfantonial15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/rfantonial15">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rfantonial15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rfantonial15">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfantonial15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  <em>Open to full-time, contract, or co-founder roles where craft and ownership matter.</em><br/>
-  <strong>Let's build something exceptional.</strong> →
-  <a href="mailto:fantonial.randulf9@gmail.com">fantonial.randulf9@gmail.com</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfantonial15&theme=tokyonight" alt="Profile Summary" />
 </p>
