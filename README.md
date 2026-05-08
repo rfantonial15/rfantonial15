@@ -47,13 +47,13 @@ I care about the whole craft: a normalized data model, the right abstraction at 
 | Year | Award | Project |
 |------|-------|---------|
 | 2025 | 🥇 **1st Place** — SEA-CICSIC, Southeast Asia Division *(China International College Students' Innovation Competition)* | AIDA |
+| 2025 | 🌍 **Finalist** — PacketHacks × HacktheClimate | AIDA |
+| 2025 | 🥉 **2nd Runner-Up** — Disruptor X Yearly Pitch Competition | AIDA |
+| 2025 | 🎯 **Overall Best Poster** — Lambigit Research Innovation Summit | AIDA |
 | 2024 | 🏆 **National Champion** — PCCI Business Idea Development Award | AIDA |
 | 2024 | 💰 **Secured Grant Funds** — Sparks' Up Student Incubation Program | AIDA |
 | 2024 | 🥈 **1st Runner-Up** — Philippine Startup Challenge 9, Region X | AIDA |
-| 2025 | 🥉 **2nd Runner-Up** — Disruptor X Yearly Pitch Competition | AIDA |
-| 2025 | 🎯 **Overall Best Poster** — Lambigit Research Innovation Summit | AIDA |
 | 2024 | 🏅 **Champion** — Tech101 Demo Day Pitching Competition | AIDA |
-| 2025 | 🌍 **Finalist** — PacketHacks × HacktheClimate | AIDA |
 
 ---
 
