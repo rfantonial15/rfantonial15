@@ -125,14 +125,15 @@ Mobile marketplace for fishermen with an ocean-themed UI.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rfantonial15">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rfantonial15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/rfantonial15">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfantonial15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfantonial15&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfantonial15&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rfantonial15&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rfantonial15&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rfantonial15&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rfantonial15&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </p>
