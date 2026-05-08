@@ -39,7 +39,7 @@ I care about the whole craft — a normalized data model, the right abstraction 
 
 - 🥇 **1st Place** — SEA-CICSIC 2025, Southeast Asia Division (China International College Students' Innovation Competition)
 - 🏆 **National Champion** — PCCI Business Idea Development Award 2024
-- 💰 **₱100,000 Grant** — Sparks' Up Student Incubation Program
+- 💰 **Secured Grant** — Sparks' Up Student Incubation Program
 - 🥈 **1st Runner-Up** — Philippine Startup Challenge 9, Region X
 - 🥉 **2nd Runner-Up** — Disruptor X Yearly Pitch Competition
 - 🎯 **Overall Best Poster** — Lambigit 2025 Research Innovation Summit
