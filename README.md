@@ -31,34 +31,6 @@ Currently co-founding **[AIDA](https://rfantonial.vercel.app/)** — a real-time
 
 ---
 
-## Selected Work
-
-### AIDA — Automated Incident Detection and Assistance &nbsp;·&nbsp; *2024 – Present*
-Real-time AI incident-response platform across web and mobile. Co-founded out of an award-winning capstone, now taking the product to market. Lead the web frontend and core backend APIs.
-<br/>
-<sub>**National Champion** (PCCI 2024) · **1st Place** SEA-CICSIC 2025 · **₱100K** non-dilutive grant secured</sub>
-
-`React Native` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Django REST` &nbsp;·&nbsp; `PostgreSQL`
-
-### Barangay Lupon — Digital Transformation &nbsp;·&nbsp; *2026*
-Deployed case-management OS for local dispute resolution. Normalized PostgreSQL schema with full audit trails, role-based access control, document workflows, and an analytics layer for caseload and resolution rates.
-
-`React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Django REST` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Tailwind CSS`
-
-### Polymarket 5-Min Bot &nbsp;·&nbsp; *2025 – Present*
-Strategy + LLM-driven bot for Polymarket 5-minute crypto markets (BTC · ETH · SOL). Includes a backtester and local-LLM signal layer.
-
-`Python` &nbsp;·&nbsp; `Polymarket API` &nbsp;·&nbsp; `WebSockets` &nbsp;·&nbsp; `Local LLM`
-
-### Hyperliquid Auto-Trading Bot &nbsp;·&nbsp; *2025 – Present*
-Personal automated trading bot on Hyperliquid with Telegram-driven monitoring, risk controls, and webhook alerts.
-
-`Python` &nbsp;·&nbsp; `Hyperliquid API` &nbsp;·&nbsp; `Telegram Bot API` &nbsp;·&nbsp; `Webhooks`
-
-Full case studies on my [**portfolio →**](https://rfantonial.vercel.app/)
-
----
-
 ## Stack
 
 **Frontend**
@@ -102,20 +74,6 @@ Full case studies on my [**portfolio →**](https://rfantonial.vercel.app/)
   <img src="https://img.shields.io/badge/-Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
 </p>
-
----
-
-## Recognition
-
-| Year | Award | Project |
-|------|-------|---------|
-| 2025 | **1st Place** — SEA-CICSIC, Southeast Asia Division | AIDA |
-| 2024 | **National Champion** — PCCI Business Idea Development Award | AIDA |
-| 2024 | **Secured Funding** — Sparks' Up Student Incubation Program | AIDA |
-| 2024 | **1st Runner-Up** — Philippine Startup Challenge 9, Region X | AIDA |
-| 2025 | **2nd Runner-Up** — Disruptor X Yearly Pitch Competition | AIDA |
-| 2025 | **Overall Best Poster** — Lambigit Research Innovation Summit | AIDA |
-| 2024 | **Champion** — Tech101 Demo Day Pitching Competition | AIDA |
 
 ---
 
