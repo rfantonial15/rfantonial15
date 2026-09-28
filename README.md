@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/-Framer%20Motion-0d1117?style=flat-square&logo=framer&logoColor=BB9AF7" />
 </p>
 
 **Mobile**
