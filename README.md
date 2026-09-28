@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Software Engineer · Co-Founder, AIDA</strong><br/>
-  <sub>Cagayan de Oro, Philippines · BSIT, Cum Laude — USTP 2025</sub>
+  <sub>Cagayan de Oro, Philippines</sub>
 </p>
 
 ## Stack
