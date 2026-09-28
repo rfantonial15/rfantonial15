@@ -1,35 +1,7 @@
-<h1 align="center">Randulf Fantonial</h1>
-
 <p align="center">
-  <strong>Full Stack Developer · Co-Founder, AIDA</strong><br/>
+  <strong>Software Engineer · Co-Founder, AIDA</strong><br/>
   <sub>Cagayan de Oro, Philippines · BSIT, Cum Laude — USTP 2025</sub>
 </p>
-
-<p align="center">
-  <a href="https://rfantonial.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:fantonial.randulf9@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-  &nbsp;
-  <a href="https://github.com/rfantonial15"><img src="https://img.shields.io/github/followers/rfantonial15?label=Follow&style=flat-square&color=0d1117&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=BB9AF7&center=true&vCenter=true&width=620&lines=Building+production+web+%26+mobile+products+end-to-end.;React+%C2%B7+React+Native+%C2%B7+Django+%C2%B7+PostgreSQL." />
-</p>
-
----
-
-## About
-
-I build production web and mobile products end-to-end — from data model to the last UI detail. My work spans **civic tech, real-time AI platforms, and polished product UIs** that have to hold up under daily use.
-
-I care about the whole craft: a normalized data model, the right abstraction at the right time, and the small details that make a product feel **considered rather than assembled**. I work best with high autonomy, tight feedback loops, and teams that treat polish as a default rather than a stretch goal.
-
-Currently co-founding **[AIDA](https://rfantonial.vercel.app/)** — a real-time AI incident-response platform spun out of my award-winning capstone — while leading a Barangay Lupon case-management platform and shipping freelance product work in parallel.
-
-> **Open to full-time, contract, or co-founder roles** where craft and ownership matter.
-
----
 
 ## Stack
 
